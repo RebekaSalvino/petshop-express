@@ -1,0 +1,156 @@
+{
+  "pets": [
+    {
+       "name":  "Ribs ",
+       "type":  "dog",
+       "Age": 5,
+       "raca"  : "Mutt",
+       "Weight": 3,
+      "tutor": "Doug",
+       "contact":  "(11) 98899-4545",
+       "Vaccinated": true,
+       "services": [
+        {
+           "name":  "bath",
+          "data": "29-03-2021"
+        },
+        {
+           "name":  "bath",
+          "data": "29-03-2021"
+        }
+      ]
+    },
+    {
+       "name":  "Snoopy",
+       "type":  "dog",
+       "age": 13,
+      "raca": "Beagle",
+       "Weight": 5,
+      "tutor": "Charlie Brown",
+       "contact":  "(11) 95656-4545",
+       "Vaccinated": true,
+       "services": [
+        {
+           "name":  "bath",
+          "data": "29-03-2021"
+        }
+      ]
+    },
+    {
+       "name":  "Satanas",
+       "type":  "cat",
+       "Age": 5,
+       "raca"  : "Mutt",
+       "Weight": 3,
+       "tutor":  "Witch of the 71",
+       "contact":  "(11) 97171-7171",
+       "Vaccinated": true,
+       "services": []
+    },
+    {
+       "name":  "Ada",
+       "type":  "dog",
+       "age": 1,
+       "raca"  : "Mutt",
+       "weight": 18,
+      "tutor": "Pedro",
+       "contact":  "(11) 98899-4545",
+       "Vaccinated": true,
+       "services": []
+    },
+    {
+       "name":  "Pedrita",
+       "type":  "dog",
+      "idade": 10,
+       "raca":  "German Shepherd",
+       "weight": 18,
+       "tutor":  "John",
+       "contact":  "(11) 98899-9999",
+       "Vaccinated": true,
+       "services": []
+    },
+    {
+       "name":  "Romarinho",
+       "type":  "dog",
+      "idade": 3,
+      "raca": "American",
+      "peso": 28,
+      "tutor": "Bruno",
+       "contact":  "(11) 99999-9999",
+       "Vaccinated": true,
+       "services": []
+    },
+    {
+       "name":  "Bidu",
+       "type":  "cat",
+      "idade": 3,
+      "raca": "American",
+      "peso": 28,
+      "tutor": "Doug",
+       "contact":  "(11) 99999-9999",
+       "Vaccinated": true,
+       "services": []
+    },
+    {
+       "name":  "Eva",
+       "type":  "cat",
+      "idade": 3,
+      "raca": "American",
+      "peso": 28,
+      "tutor": "Hendy",
+       "contact":  "(11) 99999-9999",
+       "Vaccinated": true,
+       "services": []
+    },
+    {
+       "name":  "Tag",
+       "type":  "cat",
+      "idade": 3,
+      "raca": "American",
+      "peso": 28,
+      "tutor": "Doug",
+       "contact":  "(11) 99999-9999",
+       "Vaccinated": true,
+       "services": []
+    },
+    [
+      {
+         "name":  "Blackberry",
+         "type":  "turtle",
+        "idade": 50,
+         "raca":  " tortoise",
+         "Weight": 3,
+        "tutor": "Doug",
+         "contact":  "(11) 98899-4545",
+         "Vaccinated": true,
+         "services": []
+      }
+    ],
+    [
+      {
+         "name":  "Blackberry",
+         "type":  "turtle",
+        "idade": 50,
+         "raca":  " tortoise",
+         "Weight": 3,
+        "tutor": "Doug",
+         "contact":  "(11) 98899-4545",
+         "Vaccinated": true,
+         "services": []
+      }
+    ],
+    [
+      {
+         "name":  "Blackberry",
+         "type":  "turtle",
+        "idade": 50,
+         "raca":  " tortoise",
+         "Weight": 3,
+        "tutor": "Doug",
+         "contact":  "(11) 98899-4545",
+         "Vaccinated": true,
+         "services": []
+      }
+    ]
+  ]
+}
